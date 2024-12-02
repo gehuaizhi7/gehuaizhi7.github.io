@@ -2,11 +2,11 @@
 title: "When Backdoors Speak: Understanding LLM Backdoor Attacks Through Model-Generated Explanations"
 collection: publications
 category: manuscripts
-permalink: 
-excerpt: 
-date: 
-venue: 
-slidesurl: 
+permalink: /publication/
+excerpt: ''
+date: 2024-12-01
+venue: ''
+slidesurl: ''
 paperurl: 'https://arxiv.org/abs/2411.12701'
 citation: '\textbf{Huaizhi Ge}, Yiming Li, Qifan Wang, Yongfeng Zhang, and Ruixiang Tang. Under Review at \textit{NAACL 2025}.'
 ---
