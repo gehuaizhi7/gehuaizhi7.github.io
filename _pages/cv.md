@@ -1,6 +1,9 @@
 ---
-layout: null
+layout: default
+title: "CV"
 permalink: /cv/
-redirect_to: /files/cv.pdf
+redirect_from:
+  - /resume
 ---
 
+[Download my CV](files/cv.pdf)
